@@ -1,13 +1,2 @@
 twinkle twinkle
 little star
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-how i wonder whats so high
-=======
-hello guru
->>>>>>> 5ea78edd22c93f774bff69eaa63479386112ed04
-=======
->>>>>>> parent of 14ca4d4 (finish second part)
-=======
->>>>>>> parent of 14ca4d4 (finish second part)
